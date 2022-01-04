@@ -1,7 +1,12 @@
 .App {
   text-align: center;
+  background-color: black;
 }
-
+.Navbar {
+  padding: 25px 0;
+  text-align: center;
+  background: #222;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
