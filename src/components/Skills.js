@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, Row, Col } from 'react-bootstrap';
-import { BsGithub, BsFillArrowUpRightSquareFill } from 'react-icons/bs';
+// import { BsGithub, BsFillArrowUpRightSquareFill } from 'react-icons/bs';
 
 const Skills = () => {
     return (
