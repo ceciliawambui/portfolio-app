@@ -26,7 +26,7 @@ const Home = () => {
             </Row>
             <Row>
                 <Col></Col>
-                <Col xs={2}>
+                <Col xs={4} style={{display: 'inline', textAlign:"center"}}>
             <Button href='Cecilia Wambui Resume.pdf' variant="dark" style={{ fontWeight: "bold", textAlign: "center", paddingTop: "px" }}>Resume</Button>     <a href='https://github.com/ceciliawambui'><BsGithub/></a>    <a href='https://www.linkedin.com/in/cecilia-wambui-93aa73183'><BsLinkedin/></a>
    
             </Col>
