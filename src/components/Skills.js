@@ -4,7 +4,7 @@ import { Card, Row, Col } from 'react-bootstrap';
 
 const Skills = () => {
     return (
-        <div>
+        <section id="Skills">
             <h1 style={{ fontWeight: "bold", paddingTop: "50px", textAlign:"center" }}>SKILLS</h1>
             <div style={{ margin: "20px", textAlign: "center" }} >
 
@@ -151,7 +151,7 @@ const Skills = () => {
                     <Col></Col>
                 </Row>
             </div>
-        </div>
+        </section>
       
     )
 }

@@ -4,7 +4,7 @@ import { BsGithub, BsLinkedin } from 'react-icons/bs';
 
 const Home = () => {
     return (
-        <div>
+        <section id="Home">
             <h1 style={{ fontWeight: "bold", textAlign: "center", paddingTop: "50px", fontSize:"60px" }}>Hi, i am <span style={{ color: "skyblue" }}>Cecilia Wambui. </span></h1>
             <h3 style={{ fontWeight: "bold", textAlign: "center", paddingTop: "px" }}>A Junior Software Developer</h3>
             <Row>
@@ -32,7 +32,7 @@ const Home = () => {
             </Col>
             <Col></Col>
             </Row>
-        </div>
+        </section>
     )
 }
 

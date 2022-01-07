@@ -7,7 +7,7 @@ import { BsGithub, BsFillArrowUpRightSquareFill } from 'react-icons/bs';
 const Projects = () => {
     
     return (
-        <div>
+        <section id="Projects">
             <h1 style={{ fontWeight: "bold", textAlign: "center", paddingTop: "50px" }}>PROJECTS</h1>
             <div style={{margin:"20px"}} >
                 <Row>
@@ -90,7 +90,7 @@ const Projects = () => {
                 </Col>
                 </Row>
             </div>
-        </div>
+        </section>
     )
 }
 
