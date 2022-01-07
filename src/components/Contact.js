@@ -7,9 +7,9 @@ const Contact = () => {
         <div>
             <h1 style={{ fontWeight: "bold", textAlign: "center", paddingTop: "50px" }}>CONTACT</h1>
             <div style={{textAlign:"center"}}>
-            <p><BsEnvelopeFill/> Email me</p>
+            <a class="mailto" href="mailto:ceciliawambui026@gmail.com"><BsEnvelopeFill/></a> Email me
             <p><BsFillTelephoneFill/> +254716894482</p>
-          
+    
           </div>
            
 
